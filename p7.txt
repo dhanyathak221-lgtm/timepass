@@ -1,2 +1,7 @@
 hello
+<<<<<<< HEAD
 hi i am a goblin
+=======
+hi 
+ hello
+>>>>>>> feature-branch
